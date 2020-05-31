@@ -1,11 +1,10 @@
 
-1.Package Manager aracılığı ile aşağıdaki paketler yüklenir.
+1.Package Manager aracÃ½lÃ½Ã°Ã½ ile aÃ¾aÃ°Ã½daki paketler yÃ¼klenir.
 	1.1.Microsoft.EntityFrameworkCore.SqlServer
 	1.2.Microsoft.EntityFrameworkCore.Tools
-2.Infrastructure Klasörü oluşturulur.
-	2.1.Context Klasörü aluşturulur.
+2.Infrastructure KlasÃ¶rÃ¼ oluÃ¾turulur.
+	2.1.Context KlasÃ¶rÃ¼ aluÃ¾turulur.
 		2.1.1."ProjectContext.cs" eklenir.
-3.Model Klasörü Altında "Page.cs" eklenir.
+3.Model KlasÃ¶rÃ¼ AltÃ½nda "Page.cs" eklenir.
 4.Page entity DbSet edilir.
-5.Migration İşlemleri yapılır
-6.Infrastrı
+5.Migration Islemleri yapÄ±lÄ±r
